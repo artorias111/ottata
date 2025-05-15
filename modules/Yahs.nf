@@ -1,0 +1,9 @@
+process alignHicReads {
+
+}
+
+
+process scaffoldAssembly {
+
+
+}
