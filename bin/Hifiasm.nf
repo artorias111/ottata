@@ -2,6 +2,17 @@
 
 process assembleHifiReads {
 
+    input:
+    path hifi_reads
+
+    output:
+
+    script:
+
+    """
+
+    """
+
 }
 
 
